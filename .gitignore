@@ -1,0 +1,6 @@
+.env
+/target
+.DS_Store
+.vscode/
+build/
+/scratch
