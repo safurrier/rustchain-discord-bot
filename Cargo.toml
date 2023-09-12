@@ -5,6 +5,7 @@ description = "A Discord bot for LLM chain apps"
 version = "1.0.0"
 edition = "2021"
 license = "MIT"
+repository = "https://github.com/safurrier/rustchain-discord-bot"
 
 [dependencies]
 poise="0.5.5"
