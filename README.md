@@ -1,13 +1,13 @@
 # rustchain-discord-bot
 
-`rustchain-discord-bot` is a powerful Discord bot designed to interact with users in real-time chat within a Discord thread using the `/chat` command. By default, the bot integrates with OpenAI to leverage various GPT models for dynamic and rich conversations. The underlying code is based on the Rust crate [`llm-chain`](https://github.com/sobelio/llm-chain), which is inspired by LangChain. This provides the bot with extensibility and customization, offering a wide array of potential capabilities.
+`rustchain-discord-bot` is a Discord bot designed to interact with users in real-time chat within a Discord thread using the `/chat` command. By default, the bot integrates with OpenAI to leverage various GPT models for dynamic and rich conversations. The underlying code is based on the Rust crate [`llm-chain`](https://github.com/sobelio/llm-chain), which is inspired by LangChain. 
 
 ## Features
 
 - Real-time chat interaction using the `/chat` command.
-- Integration with OpenAI for dynamic conversation abilities.
+- Integration with OpenAI for conversation abilities.
 - Customizable bot name and OpenAI model configurations.
-- Extensible and customizable codebase thanks to `llm-chain`.
+- Extensible to LLM chains via `llm-chain`.
 
 ## Setup
 
